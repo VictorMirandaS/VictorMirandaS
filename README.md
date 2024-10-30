@@ -6,7 +6,7 @@
 [![Contact](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorMirandaS)
 
 <div align="center">
-<a href="https://github.com/AndreDG88">
+<a href="https://github.com/VictorMirandaS">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMirandaS&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMirandaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
